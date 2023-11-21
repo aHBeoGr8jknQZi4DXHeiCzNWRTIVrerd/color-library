@@ -3,6 +3,8 @@
 
 A simple color library in python
 
+I fixed the Fore.RESET and Background.RESET, also added Gradient() for both
+Added ANSI escape codes support for command prompt
 ## Importing
 
 ```py
